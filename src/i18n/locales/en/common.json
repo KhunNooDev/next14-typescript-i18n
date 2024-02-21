@@ -1,0 +1,8 @@
+{
+  "menus": {
+    "home": "Home",
+    "about": "About",
+    "usage": "Usage"
+  },
+  "lb_select_lang": "Select Language:"
+}
